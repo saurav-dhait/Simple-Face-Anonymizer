@@ -9,7 +9,7 @@ This repository contains Python code for a simple face anonymizer using OpenCV a
 
 - Get the image or image stream.
 - Detect face.
-- Put blue on the area covering the face.
+- Put blur on the area covering the face.
 - Output the modified image
 
 
